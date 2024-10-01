@@ -1,0 +1,5 @@
+### This is the page where I update the current projects I am working on and the idead I have for future projects.
+## The projects I am currently working on are:
+- **[Project 1:](Writing thesis on the topic of modeling intermolecular interactions)** This PhD project deals with deep eutectic solvents.
+- **[Project 2:](Developing redistricting methods for the upcoming delimitation of indian parliamentary constituencies)** This project is a personal project I embarked on to contribute to finding equitable solutions to the impending census and upcoming delimitation of the indian parliamentary constituencies where it is expected that all regions other than northern india will lose seats in the parliament.
+- **[Project 3:](Tutorials on the different molecular modeling softwares and image rendering programs)** I will try to write some blogs about methods I am using in my thesis to maybe help someone save the time I spent figuring out how to use the software.
